@@ -1,0 +1,7 @@
+DATABASE FOR THE BANK OF IFIOK
+ Account Number:6085190925 | BVN:2602688618 | PIN:5697 | M | Ifiok Eyo Ambrose
+ Account Number:9502924086 | BVN:4647180733 | PIN:3460 | F | Idiongo Martins Wisdom
+ Account Number:9502924086 | BVN:4647180733 | PIN:5467 | F | Effiong Adam Nodejs
+ Account Number:9217854448 | BVN:1062651584 | PIN:8284 | M | Arch Baron Windsor
+ Account Number:5237347212 | BVN:1170195087 | PIN:8119 | M | Donald TRUMP Conqueror
+ Account Number:8133296603 | BVN:4842580659 | PIN:3487 | M | Pope Franscis Ebong
